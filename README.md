@@ -23,6 +23,6 @@ There are the following users populated with each user's password being the word
 - sophia_martinez : Delivery Representative
 
 ##Contributors-
-Ankit Gupta-22BCT0027 (Full stack and Java)
+Ankit Gupta-22BCT0027 (Java)
 Aditya Bansal-22BCE3004 (SQL and Database handling)
 
